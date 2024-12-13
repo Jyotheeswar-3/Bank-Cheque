@@ -1,0 +1,77 @@
+Image: ch3.jpg
+Details: Here's the extracted cheque information:
+
+* **Bank Name:** Canara Bank
+* **Date:** 23/12/2006
+* **Payee Name:** Sri. Ram Reddy Bheem Reddy
+* **Amount in words:** One crore Eight Lakh Seventy thousand
+* **Amount in numbers:** 1,08,70,000
+* **Account number:** 2854101006936
+* **Cheque number:** 120620
+
+Image: ch2.jpg
+Details: Here's the extracted cheque information:
+
+* **Bank Name:** AXIS BANK LTD
+* **Date:** 11/12/2015
+* **Payee Name:** Sravani Bhargavi
+* **Amount in words:** Forty Two Lac Twenty Thousand
+* **Amount in numbers:** 42,20,000
+* **Account Number:** 911010049001545
+* **Cheque Number:**  Not explicitly stated on the cheque image.  The numbers "309089" and "426160" might be related to cheque processing or routing, but are not standard cheque numbers.
+
+Image: ch0.jpg
+Details: Here's the extracted cheque information:
+
+* **Bank Name:** AXIS BANK LTD
+* **Date:** 25/01/2016
+* **Payee Name:** Anirban Sharma
+* **Amount in Words:** One Lakh Ten Thousand
+* **Amount in Numbers:** 110,000
+* **Account Number:** 911010049001545
+* **Cheque Number:**  Not explicitly stated on the cheque image.  The MICR line contains several numbers, but none are formatted as a standard cheque number.
+
+Image: ch1.jpg
+Details: Here's the extracted cheque information:
+
+* **Bank Name:** Syndicate Bank
+* **Date:** 27-02-2016
+* **Payee Name:** G. Jayakrishna Reddy
+* **Amount in words:** Forty Four Lakh Twenty Thousand
+* **Amount in numbers:** 44,20,000
+* **Account Number:** 30002010108841
+* **Cheque Number:**  Not explicitly mentioned on the cheque.
+
+Image: ch5.jpg
+Details: Here's the extracted cheque information:
+
+* **Bank Name:** AXIS BANK LTD
+* **Date:** 20/12/2015
+* **Payee Name:** Anil Kumar Reddy
+* **Amount in words:** Ninety Nine Thousand
+* **Amount in numbers:** 99,000
+* **Account Number:** 911010049001545
+* **Cheque Number:**  Not explicitly mentioned on the cheque.
+
+Image: ch4.jpg
+Details: Here's the extracted cheque information:
+
+* **Bank Name:** AXIS BANK LTD
+* **Date:** 03 05 2016
+* **Payee Name:** R. SRI LEKHA RAO
+* **Amount in words:** Two Lakh Seventy Five Thousand
+* **Amount in numbers:** 2,75,000
+* **Account Number:** 911010049001545
+* **Cheque Number:**  (Not explicitly stated on the image)
+
+Image: ch6.jpg
+Details: Here's the extracted cheque information:
+
+* **Bank Name:** Syndicate Bank
+* **Date:** 08/01/2013
+* **Payee Name:** Abhilash Reddy
+* **Amount in words:** Twenty Two lacks Fifty five thousand
+* **Amount in numbers:** 2255000
+* **Account Number:** 30002010108841
+* **Cheque Number:**  The image does not clearly show a cheque number.  There are various numbers printed on the cheque, but none are clearly identified as a cheque number.
+
